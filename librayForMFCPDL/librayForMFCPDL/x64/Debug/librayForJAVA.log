@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(librayForJAVA.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Stdafx.cpp
+  AssemblyInfo.cpp
+  Ch.cpp
+  librayForJAVAPDL.cpp
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.h(75): warning C4677: “Meas_ch”: 非私有成员的签名包含程序集私有类型“Ch”
+  e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\ch.h(2): note: 参见“Ch”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(266): warning C4102: “cli”: 未引用的标签
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(312): warning C4102: “cli”: 未引用的标签
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(312): warning C4101: “split_st”: 未引用的局部变量
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(759): warning C4101: “mpm”: 未引用的局部变量
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(831): warning C4101: “loop2”: 未引用的局部变量
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1030): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1030): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(968): warning C4101: “loop1”: 未引用的局部变量
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1259): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1343): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1306): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1713): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1685): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1713): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1610): warning C4101: “sop_string”: 未引用的局部变量
+e:\c++\pdl\librayforjavapdl\librayforjavapdl\librayforjava\librayforjavapdl.cpp(1605): warning C4101: “fpath”: 未引用的局部变量
+  正在生成代码...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+    正在创建库 E:\C++\PDL\librayForJAVAPDL\librayForJAVAPDL\x64\Debug\librayForJAVAPDL.lib 和对象 E:\C++\PDL\librayForJAVAPDL\librayForJAVAPDL\x64\Debug\librayForJAVAPDL.exp
+  librayForJAVA.vcxproj -> E:\C++\PDL\librayForJAVAPDL\librayForJAVAPDL\x64\Debug\librayForJAVAPDL.dll

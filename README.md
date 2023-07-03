@@ -21,7 +21,7 @@ This is an example software of a scan test system for PDL measurements.
   - TSL-570/TSL-770: GPIB, TCP/IP or USB  
     Note: It can be changed on the source code, but the initial value is the delimiter CRLF specification.
 ### Power meter (MPM) control
-  - MPM-210/210H: GPIB or TCP/IP 
+  - MPM-210/210H: GPIB, TCP/IP or USB
 
 ### Polarization Controller (PCU) control
   - PCU-100: GPIB 

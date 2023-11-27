@@ -42,4 +42,4 @@ This is an example software of a scan test system for PDL measurements.
   ![image](https://github.com/santec-corporation/VS_PDLSample/assets/132535077/8177cb72-5abd-4125-9af1-006165323063)
 
 ## 4. Operational steps
-Refere to the Manual [HERE](https://github.com/santeccorporation/VS_PDLSample/files/11934059/Santec.PDL.Swept.Test.System.Manual.V1.3_CH_20230324.docx)
+Refere to the Manual [HERE](https://github.com/santec-corporation/VS_PDLSample/blob/main/Santec%20PDL%20Swept%20Test%20System%20Manual%20V1.3_EN_20231009.pdf)
